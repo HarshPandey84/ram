@@ -1,2 +1,2 @@
-# ram
-this is my first repo
+Jai Shree Ram
+Jai Gaumata Jai Gopal
